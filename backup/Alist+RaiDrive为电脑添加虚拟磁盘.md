@@ -2,7 +2,7 @@
 
 ## 📥前期准备
 
-需下载工具：**Alist v3.42.0、AlistHelper v0.2.0、Rclone**
+需下载工具：**Alist、AlistHelper、Rclone**
 下载地址：
 Alist：[AlistGo/alist GitHub Releases](https://github.com/AlistGo/alist/releases/tag/v3.42.0)
 AlistHelper：[Xmarmalade/alisthelper GitHub Releases](https://github.com/Xmarmalade/alisthelper/releases/tag/v0.2.0)
@@ -26,7 +26,7 @@ Rclone：[rclone/rclone GitHub Releases](https://github.com/rclone/rclone/releas
 # 💻 RaiDrive安装与配置
 
 官网下载：[RaiDrive - 像USB驱动器一样安装云存储](https://www.raidrive.com/)。
-常见问题：[若提示.NET](http://xn--o0uq09bd6g.net/) runtime错误，需安装[.NET运行时](https://dotnet.microsoft.com/en-us/download)，必要时检查注册表路径。
+常见问题：若提示.NETruntime错误，需安装[.NET运行时](https://dotnet.microsoft.com/en-us/download)，必要时检查注册表路径。
 
 > 正确安装依旧报错：
 > 查看注册表，Win + r，输入 regedit，回车；
