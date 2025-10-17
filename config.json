@@ -1,6 +1,16 @@
 {
-    "title":"Aleeyoo`s Blog",
-    "subTitle":"All about Aleeyoo.",
-    "avatarUrl":"https://em-content.zobj.net/source/animated-noto-color-emoji/427/exploding-head_1f92f.gif",
+    "title":"不谷",
+    "displayTitle":"Buguu",
+    "subTitle":"只今只道只今句",
+    "avatarUrl":"https://em-content.zobj.net/source/microsoft-teams/400/face-with-peeking-eye_1fae3.png",
     "GMEEK_VERSION":"last"
+    "startSite":"10/17/2025",
+    "bottomText":"转载请注明出处",
+    
+    "themeMode":"manual",
+    "dayTheme":"dark",
+    "nightTheme":"dark-blue",
+    
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
 }
