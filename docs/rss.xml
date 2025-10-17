@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Buguu`s Blog</title><link>https://Aleeyoo.github.io/leoowa</link><description>人生需要发呆。</description><copyright>Buguu`s Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.github.com/Aleeyoo/note-gen-image-sync/main/b608f211-4aec-4994-9d43-8f80c150c21d.gif</url><title>avatar</title><link>https://Aleeyoo.github.io/leoowa</link></image><lastBuildDate>Fri, 17 Oct 2025 14:54:46 +0000</lastBuildDate><managingEditor>Buguu`s Blog</managingEditor><ttl>60</ttl><webMaster>Buguu`s Blog</webMaster><item><title>Alist+RaiDrive为电脑添加虚拟磁盘</title><link>https://Aleeyoo.github.io/leoowa/post/Alist%2BRaiDrive-wei-dian-nao-tian-jia-xu-ni-ci-pan.html</link><description># ☁️Alist挂载云盘
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Buguu`s Blog</title><link>https://Aleeyoo.github.io/leoowa</link><description>人生需要发呆。</description><copyright>Buguu`s Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.github.com/Aleeyoo/note-gen-image-sync/main/b608f211-4aec-4994-9d43-8f80c150c21d.gif</url><title>avatar</title><link>https://Aleeyoo.github.io/leoowa</link></image><lastBuildDate>Fri, 17 Oct 2025 17:19:51 +0000</lastBuildDate><managingEditor>Buguu`s Blog</managingEditor><ttl>60</ttl><webMaster>Buguu`s Blog</webMaster><item><title>Alist+RaiDrive为电脑添加虚拟磁盘</title><link>https://Aleeyoo.github.io/leoowa/post/Alist%2BRaiDrive-wei-dian-nao-tian-jia-xu-ni-ci-pan.html</link><description># ☁️Alist挂载云盘
 
 ## 📥前期准备
 
@@ -13,4 +13,65 @@ Rclone：[rclone/rclone GitHub Releases](https://github.com/rclone/rclone/releas
 
 1. 解压Alist和Rclone，记录.exe文件路径；
 2. 打开AlistHelper，在设置中配置对应文件地址；
-3. 重启Helper后打开WebUI（默认账号：admin，随机密码需在WebUI修改）。</description><guid isPermaLink="true">https://Aleeyoo.github.io/leoowa/post/Alist%2BRaiDrive-wei-dian-nao-tian-jia-xu-ni-ci-pan.html</guid><pubDate>Fri, 17 Oct 2025 06:29:12 +0000</pubDate></item><item><title>All about Buguu.</title><link>https://Aleeyoo.github.io/leoowa/about.html</link><guid isPermaLink="true">https://Aleeyoo.github.io/leoowa/about.html</guid><pubDate>Fri, 17 Oct 2025 07:06:55 +0000</pubDate></item><item><title>相关链接</title><link>https://Aleeyoo.github.io/leoowa/link.html</link><guid isPermaLink="true">https://Aleeyoo.github.io/leoowa/link.html</guid><pubDate>Fri, 17 Oct 2025 07:07:38 +0000</pubDate></item></channel></rss>
+3. 重启Helper后打开WebUI（默认账号：admin，随机密码需在WebUI修改）。</description><guid isPermaLink="true">https://Aleeyoo.github.io/leoowa/post/Alist%2BRaiDrive-wei-dian-nao-tian-jia-xu-ni-ci-pan.html</guid><pubDate>Fri, 17 Oct 2025 06:29:12 +0000</pubDate></item><item><title>All about Buguu.</title><link>https://Aleeyoo.github.io/leoowa/about.html</link><description>&lt;div style='display:flex;gap:8px;'&gt; 
+  &lt;a href='https://weixin.qq.com/' target='\_blank' rel='noopener noreferrer'&gt;     &lt;img src='https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&amp;logo=wechat&amp;logoColor=white' alt='WeChat'&gt;   &lt;/a&gt;  
+ &lt;a href='https://example.com/rss' target='\_blank' rel='noopener noreferrer'&gt;     
+&lt;img src='https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&amp;logo=rss&amp;logoColor=white' alt='RSS'&gt;   
+&lt;/a&gt;  
+
+# 学一点
+&lt;div style='margin-bottom: 12px;'&gt;
+  &lt;span style='font-weight: bold; margin-right: 8px;'&gt;编程语言：&lt;/span&gt;
+  &lt;div style='display: inline-flex; gap: 8px; vertical-align: middle;'&gt;
+    &lt;img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white'&gt;
+    &lt;img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white'&gt;
+    &lt;img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E'&gt;
+    &lt;img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&amp;logo=python&amp;logoColor=blue'&gt;
+    &lt;img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white'&gt;
+    &lt;img src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white'&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style='margin-bottom: 12px;'&gt;
+  &lt;span style='font-weight: bold; margin-right: 8px;'&gt;前端/客户端：&lt;/span&gt;
+  &lt;div style='display: inline-flex; gap: 8px; vertical-align: middle;'&gt;
+    &lt;img src='https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&amp;logo=json&amp;logoColor=white'&gt;
+    &lt;img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white'&gt;
+    &lt;img src='https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&amp;logo=android&amp;logoColor=white'&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style='margin-bottom: 12px;'&gt;
+  &lt;span style='font-weight: bold; margin-right: 8px;'&gt;后端/数据库：&lt;/span&gt;
+  &lt;div style='display: inline-flex; gap: 8px; vertical-align: middle;'&gt;
+    &lt;img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&amp;logo=mysql&amp;logoColor=white'&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style='margin-bottom: 12px;'&gt;
+  &lt;span style='font-weight: bold; margin-right: 8px;'&gt;操作系统：&lt;/span&gt;
+  &lt;div style='display: inline-flex; gap: 8px; vertical-align: middle;'&gt;
+    &lt;img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white'&gt;
+    &lt;img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black'&gt;
+    &lt;img src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white'&gt;
+    &lt;img src='https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&amp;logo=CentOS&amp;logoColor=white'&gt;
+    &lt;img src='https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&amp;logo=deepin&amp;logoColor=white'&gt;
+    &lt;img src='https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&amp;logo=kali-linux&amp;logoColor=white'&gt;
+    &lt;img src='https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&amp;logo=lineageos&amp;logoColor=white'&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style='margin-bottom: 12px;'&gt;
+  &lt;span style='font-weight: bold; margin-right: 8px;'&gt;开发工具：&lt;/span&gt;
+  &lt;div style='display: inline-flex; gap: 8px; vertical-align: middle;'&gt;
+    &lt;img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&amp;logo=git&amp;logoColor=white'&gt;
+    &lt;img src='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&amp;logo=markdown&amp;logoColor=white'&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+  &lt;span style='font-weight: bold; margin-right: 8px;'&gt;办公软件：&lt;/span&gt;
+  &lt;div style='display: inline-flex; gap: 8px; vertical-align: middle;'&gt;
+    &lt;img src='https://img.shields.io/badge/Notion-000000?style=for-the-badge&amp;logo=notion&amp;logoColor=white'&gt;
+    &lt;img src='https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&amp;logo=Obsidian&amp;logoColor=white'&gt;
+    &lt;img src='https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&amp;logo=microsoft-word&amp;logoColor=white'&gt;
+    &lt;img src='https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&amp;logo=microsoft-excel&amp;logoColor=white'&gt;
+    &lt;img src='https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&amp;logo=microsoft-powerpoint&amp;logoColor=white'&gt;
+    &lt;img src='https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&amp;logo=microsoft-access&amp;logoColor=white'&gt;
+  &lt;/div&gt;
+&lt;/div&gt;。</description><guid isPermaLink="true">https://Aleeyoo.github.io/leoowa/about.html</guid><pubDate>Fri, 17 Oct 2025 07:06:55 +0000</pubDate></item><item><title>相关链接</title><link>https://Aleeyoo.github.io/leoowa/link.html</link><guid isPermaLink="true">https://Aleeyoo.github.io/leoowa/link.html</guid><pubDate>Fri, 17 Oct 2025 07:07:38 +0000</pubDate></item></channel></rss>
