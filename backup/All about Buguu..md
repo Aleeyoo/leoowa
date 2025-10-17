@@ -37,15 +37,4 @@
 
 ## 写一点
 
-<div class="link-group">
-  <a href="https://aleeyoo.github.io/leoowa/" target="_blank" rel="noopener noreferrer" class="link-item">
-    <img src="https://img.shields.io/badge/Buguu`s Blog-3498db?style=for-the-badge&logo=blogger&logoColor=white" 
-         class="link-badge" 
-         alt="Buguu\`Blog">
-  </a>
-  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer" class="link-item">
-    <img src="https://img.shields.io/badge/CC%20BY--NC--SA%204.0-9b59b6?style=for-the-badge&logo=creative-commons&logoColor=white" 
-         class="link-badge" 
-         alt="CC BY-NC-SA 4.0">
-  </a>
-</div>
+<div style="display:flex; gap:8px; flex-wrap:wrap; align-items:center;">   <a href="https://www.ifdian.net/a/leoowa" target="\_blank" rel="noopener noreferrer" style="text-decoration:none">     <img src="https://raw.github.com/Aleeyoo/note-gen-image-sync/main/b608f211-4aec-4994-9d43-8f80c150c21d.gif"           style="width:32px; height:32px; border:0"           alt="Buguu">   </a>   <a href="https://aleeyoo.github.io/leoowa/" target="\_blank" rel="noopener noreferrer" style="text-decoration:none">     <img src="https://img.shields.io/badge/Buguu\\\`Blog-3498db?style=for-the-badge&logo=blogger&logoColor=white"           style="height:32px; width:auto; border:0"           alt="Buguu\\\`Blog">   </a>   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="\_blank" rel="noopener noreferrer" style="text-decoration:none">     <img src="https://img.shields.io/badge/CC%20BY--NC--SA%204.0-9b59b6?style=for-the-badge&logo=creative-commons&logoColor=white"           style="height:32px; width:auto; border:0"           alt="CC BY-NC-SA 4.0">   </a> </div>
