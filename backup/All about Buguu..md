@@ -55,19 +55,3 @@
   </a>
 </div>
 
-<style>
-  @keyframes bounce {
-    0%, 100% {
-      transform: translateY(0);
-    }
-    50% {
-      transform: translateY(-8px);
-    }
-  }
-  a:hover {
-    transform: scale(1.05);
-  }
-  a:hover img {
-    opacity: 0.9;
-  }
-</style>

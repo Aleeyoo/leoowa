@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Aleeyoo-人生需要发呆</title><link>https://Aleeyoo.github.io/leoowa</link><description>人生需要发呆</description><copyright>Aleeyoo-人生需要发呆</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.github.com/Aleeyoo/note-gen-image-sync/main/b608f211-4aec-4994-9d43-8f80c150c21d.gif</url><title>avatar</title><link>https://Aleeyoo.github.io/leoowa</link></image><lastBuildDate>Thu, 23 Oct 2025 12:46:05 +0000</lastBuildDate><managingEditor>Aleeyoo-人生需要发呆</managingEditor><ttl>60</ttl><webMaster>Aleeyoo-人生需要发呆</webMaster><item><title>NoteGen与TinyMind搭配使用指南</title><link>https://Aleeyoo.github.io/leoowa/post/NoteGen-yu-TinyMind-da-pei-shi-yong-zhi-nan.html</link><description>## 🔗 **工具简介**
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Aleeyoo-人生需要发呆</title><link>https://Aleeyoo.github.io/leoowa</link><description>人生需要发呆</description><copyright>Aleeyoo-人生需要发呆</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.github.com/Aleeyoo/note-gen-image-sync/main/b608f211-4aec-4994-9d43-8f80c150c21d.gif</url><title>avatar</title><link>https://Aleeyoo.github.io/leoowa</link></image><lastBuildDate>Thu, 23 Oct 2025 12:47:46 +0000</lastBuildDate><managingEditor>Aleeyoo-人生需要发呆</managingEditor><ttl>60</ttl><webMaster>Aleeyoo-人生需要发呆</webMaster><item><title>NoteGen与TinyMind搭配使用指南</title><link>https://Aleeyoo.github.io/leoowa/post/NoteGen-yu-TinyMind-da-pei-shi-yong-zhi-nan.html</link><description>## 🔗 **工具简介**
 
 * [NoteGen](https://notegen.top/) 支持将笔记同步到GitHub仓库的笔记软件。</description><guid isPermaLink="true">https://Aleeyoo.github.io/leoowa/post/NoteGen-yu-TinyMind-da-pei-shi-yong-zhi-nan.html</guid><pubDate>Thu, 23 Oct 2025 10:53:38 +0000</pubDate></item><item><title>个人博客搭建的三种方式</title><link>https://Aleeyoo.github.io/leoowa/post/ge-ren-bo-ke-da-jian-de-san-zhong-fang-shi.html</link><description>以下为三种主流个人博客搭建方案的详细介绍，包含搭建流程、核心功能及局限性，附官方预览 / 项目地址供参考：
 
@@ -83,20 +83,4 @@ Rclone：[rclone/rclone GitHub Releases](https://github.com/rclone/rclone/releas
   &lt;/a&gt;
 &lt;/div&gt;
 
-&lt;style&gt;
-  @keyframes bounce {
-    0%, 100% {
-      transform: translateY(0);
-    }
-    50% {
-      transform: translateY(-8px);
-    }
-  }
-  a:hover {
-    transform: scale(1.05);
-  }
-  a:hover img {
-    opacity: 0.9;
-  }
-&lt;/style&gt;
 。</description><guid isPermaLink="true">https://Aleeyoo.github.io/leoowa/about.html</guid><pubDate>Fri, 17 Oct 2025 07:06:55 +0000</pubDate></item></channel></rss>
